@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+<ROOT>
+    <HEAD>
+        <ACC_TX_DT>20161027</ACC_TX_DT>
+        <AC_DT>20160727</AC_DT>
+        <ACC_JRN_NO>160727161181856782</ACC_JRN_NO>
+        <RSP_CD>ACM00000</RSP_CD>
+        <RSP_MSG>交易成功</RSP_MSG>
+        <VER_NO>0001</VER_NO>
+    </HEAD>
+    <BODY>
+        <AC_NO>8000020000094163894</AC_NO>
+        <AC_ORG>100001</AC_ORG>
+        <AC_TYP>800</AC_TYP>
+        <AC_STS>0</AC_STS>
+        <AC_STSW>000000000000000000000000000000</AC_STSW>
+        <OPN_DT>20151118</OPN_DT>
+        <OPN_TM>113556</OPN_TM>
+        <CLO_DT/>
+        <CAP_TYP>1</CAP_TYP>
+        <BAL>0</BAL>
+        <UAVA_BAL>0</UAVA_BAL>
+        <PAY_PSWD/>
+        <OPN_BUS_CNL>BUI</OPN_BUS_CNL>
+        <OPN_SYS_CNL>BUI</OPN_SYS_CNL>
+        <NOT_TX_AVA_BAL>0</NOT_TX_AVA_BAL>
+    </BODY>
+</ROOT>
